@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T16:26:13.927Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="j2SePF045PmOL4rRz-nx" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-07T16:51:17.425Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="aMet9UqMuItaAwVgXRe-" version="13.9.2" type="github">
   <diagram id="Seazb_rRtXd8D2D7vR21" name="Page-1">
-    <mxGraphModel dx="839" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3DrQ59vwSmMZ8Tdxqmw8-58" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;System komp.&lt;/b&gt;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=110;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="3DrQ59vwSmMZ8Tdxqmw8-58" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 7px ; text-align: left&quot;&gt;&lt;b&gt;Program komp.&lt;/b&gt;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=110;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="810" height="570" as="geometry" />
         </mxCell>
         <mxCell id="3DrQ59vwSmMZ8Tdxqmw8-1" value="+imie:&lt;br&gt;+nazwisko:&lt;br&gt;+adres:&amp;nbsp;&lt;br&gt;+telefon:" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
@@ -142,7 +142,7 @@
             <mxPoint x="210" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZW6bj8HLgdu-y7bU1xOF-1" value="" style="endArrow=block;html=1;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3DrQ59vwSmMZ8Tdxqmw8-11">
+        <mxCell id="ZW6bj8HLgdu-y7bU1xOF-1" value="" style="endArrow=block;html=1;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="3DrQ59vwSmMZ8Tdxqmw8-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="330" as="sourcePoint" />
             <mxPoint x="170" y="280" as="targetPoint" />
